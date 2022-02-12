@@ -1,0 +1,10 @@
+nni
+yacs
+easydict
+zipfile36
+opencv-python 
+scipy
+h5py 
+pillow 
+imageio
+fastai
